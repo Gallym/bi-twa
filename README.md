@@ -1,1 +1,3 @@
-# bi-twa
+# twa-sp
+
+BI-TWA Semestral Project
